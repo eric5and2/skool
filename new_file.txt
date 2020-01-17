@@ -1,1 +1,5 @@
+I just added lines before.
+
 This file has some text in it.
+
+I just added more lines after.
